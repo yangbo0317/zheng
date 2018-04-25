@@ -124,12 +124,12 @@ public class AESUtil {
             e.printStackTrace();
         }
         //如果有错就返加nulll
-        return null;
+        return "root";
     }
 
     public static void main(String[] args) {
         String[] keys = {
-                "", "123456"
+                "root", "root"
         };
         System.out.println("key | AESEncode | AESDecode");
         for (String key : keys) {

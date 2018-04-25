@@ -258,8 +258,8 @@ Spring+SpringMVC+Mybatis框架集成公共模块，包括公共配置、MybatisG
 - 127.0.0.1 config.zhangshuzheng.cn
 
 - 127.0.0.1	zkserver
-- 127.0.0.1	rdserver
-- 127.0.0.1	dbserver
+- 127.0.0.1	localhost
+- 127.0.0.1	localhost
 - 127.0.0.1	mqserver
 
 ### 编译流程
